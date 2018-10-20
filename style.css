@@ -1,0 +1,110 @@
+body {
+    background: url(http://s3.foxfilm.com/foxmovies/dev/films/107/assets/bg-texture4.jpg-9138912608.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 50px;
+}
+#deadpool-container {
+    margin-bottom: -35px;
+}
+#deadpool {
+    -webkit-filter: drop-shadow(0px 0px 5px #111);
+    filter: drop-shadow(5px 5px 5px #000);
+}
+.jumbotron {
+    /*   background-color: #E4DAB9; */
+    background-color: #0F0000;
+    box-shadow: 0px 10px 30px 5px #000;
+    padding-bottom: 0px;
+}
+.title-container {
+    padding-top: 40px;
+    padding-bottom: 110px;
+}
+.red-text {
+    color: #A32024;
+}
+.title-container h1 {
+    font-size: 120px;
+    font-family: 'Squada One';
+    color: #fff;
+}
+.title-container p {
+    font-size: 40px;
+    font-family: 'Squada One';
+    color: #fff;
+}
+#main-image-container {
+    background: url(http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool1-gallery-image.jpg);
+    margin-left: -60px;
+    margin-right: -60px;
+}
+.list-container {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.sub-title-container h1 {
+    margin-top: 50px;
+    font-size: 60px;
+    font-family: 'Squada One';
+    color: #fff;
+}
+.sub-title-container p {
+    font-size: 25px;
+    font-family: 'Squada One';
+    color: #fff;
+}
+.list-container li {
+    font-size: 25px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.list-item {
+    font-family: 'Squada One';
+    color: #fff;
+    list-style-type: none;
+    padding: 10px;
+}
+.blockquote-reverse {
+    margin-top: 40px;
+    margin-bottom: 80px;
+    border-color: #A32024;
+}
+.blockquote-reverse p {
+    font-family: 'Squada One';
+    font-size: 40px;
+    color: #fff;
+}
+.blockquote-reverse footer {
+    font-family: 'Squada One';
+    font-size: 30px;
+    color: #999;
+}
+.footer {
+    background-color: #A32024;
+    margin-left: -60px;
+    margin-right: -60px;
+}
+.footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.footer p {
+    margin: 10px;
+    font-family: 'Squada One';
+    font-size: 16px;
+    color: #FFF;
+}
+.footer ul li {
+    float: right;
+    margin: 10px;
+    font-family: 'Squada One';
+    font-size: 16px;
+    color: #FFF;
+}
+.footer ul li a {
+    font-family: 'Squada One';
+    font-size: 16px;
+    color: #FFF;
+}
